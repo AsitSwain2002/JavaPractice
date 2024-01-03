@@ -9,3 +9,6 @@ Q2.[Write a Java program to create a class known as "BankAccount" with methods c
 <br>
 <br>
 Q3.[Write a Java program to create a class called Animal with a method named move(). Create a subclass called Cheetah that overrides the move() method to run.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/InheritancePractice03.java)
+<br>
+<br>
+Q4.[Write a Java program to create a class known as Person with methods called getFirstName() and getLastName(). Create a subclass called Employee that adds a new method named getEmployeeId() and overrides the getLastName() method to include the employee's job title.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/InheritancePractice04.java)
