@@ -12,3 +12,9 @@ Q3.[Write a Java program to create a class called Animal with a method named mov
 <br>
 <br>
 Q4.[Write a Java program to create a class known as Person with methods called getFirstName() and getLastName(). Create a subclass called Employee that adds a new method named getEmployeeId() and overrides the getLastName() method to include the employee's job title.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/InheritancePractice04.java)
+<br>
+<br>
+<u>Array</u>
+<br>
+Q5.[ Write a Java program to calculate the average value of array elements.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayPractice1.java)
+
