@@ -24,3 +24,6 @@ Q2.[ Write a Java program to test if an array contains a specific value.](https:
 <u>ArrayList</u>
 <br>
 Q1.[Write a Java program to find the second largest element in an ArrayList.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayListPrac1.java)
+<br>
+Q2.[Implement a method in Java that takes an ArrayList of integers as input and returns the sum of all the elements.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArryListPrac2.java)
+<br>
