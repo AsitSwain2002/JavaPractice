@@ -18,7 +18,6 @@ Q4.[Write a Java program to create a class known as Person with methods called g
 <br>
 Q1.[ Write a Java program to calculate the average value of array elements.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayPractice1.java)
 <br>
-<br>
 Q2.[ Write a Java program to test if an array contains a specific value.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayPractice2.java)
 
 <u>ArrayList</u>
