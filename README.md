@@ -20,3 +20,7 @@ Q1.[ Write a Java program to calculate the average value of array elements.](htt
 <br>
 <br>
 Q2.[ Write a Java program to test if an array contains a specific value.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayPractice2.java)
+
+<u>ArrayList</u>
+<br>
+Q1.[Write a Java program to find the second largest element in an ArrayList.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayListPrac1.java)
