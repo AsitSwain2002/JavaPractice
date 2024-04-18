@@ -26,3 +26,5 @@ Q1.[Write a Java program to find the second largest element in an ArrayList.](ht
 <br>
 Q2.[Implement a method in Java that takes an ArrayList of integers as input and returns the sum of all the elements.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArryListPrac2.java)
 <br>
+Q3.[Write a Java program to sort an ArrayList of strings in alphabetical order.](https://github.com/AsitSwain2002/JavaPractice/blob/master/src/ArrayListPrac3.java)
+<br>
